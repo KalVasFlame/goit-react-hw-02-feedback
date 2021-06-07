@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kalvasflame/goit-react-hw-02-feedback.git/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/kalvasflame/goit-react-hw-02-feedback.git/static/js/main.daefb195.chunk.js",
-    "main.js.map": "/kalvasflame/goit-react-hw-02-feedback.git/static/js/main.daefb195.chunk.js.map",
-    "runtime-main.js": "/kalvasflame/goit-react-hw-02-feedback.git/static/js/runtime-main.9e6c88ff.js",
-    "runtime-main.js.map": "/kalvasflame/goit-react-hw-02-feedback.git/static/js/runtime-main.9e6c88ff.js.map",
-    "static/js/2.2c1a3e46.chunk.js": "/kalvasflame/goit-react-hw-02-feedback.git/static/js/2.2c1a3e46.chunk.js",
-    "static/js/2.2c1a3e46.chunk.js.map": "/kalvasflame/goit-react-hw-02-feedback.git/static/js/2.2c1a3e46.chunk.js.map",
-    "static/js/3.dc9369f6.chunk.js": "/kalvasflame/goit-react-hw-02-feedback.git/static/js/3.dc9369f6.chunk.js",
-    "static/js/3.dc9369f6.chunk.js.map": "/kalvasflame/goit-react-hw-02-feedback.git/static/js/3.dc9369f6.chunk.js.map",
-    "index.html": "/kalvasflame/goit-react-hw-02-feedback.git/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/kalvasflame/goit-react-hw-02-feedback.git/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.2c1a3e46.chunk.js.LICENSE.txt": "/kalvasflame/goit-react-hw-02-feedback.git/static/js/2.2c1a3e46.chunk.js.LICENSE.txt"
+    "main.css": "/kalvasflame/goit-react-hw-02-feedback/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/kalvasflame/goit-react-hw-02-feedback/static/js/main.daefb195.chunk.js",
+    "main.js.map": "/kalvasflame/goit-react-hw-02-feedback/static/js/main.daefb195.chunk.js.map",
+    "runtime-main.js": "/kalvasflame/goit-react-hw-02-feedback/static/js/runtime-main.8c0e5fb4.js",
+    "runtime-main.js.map": "/kalvasflame/goit-react-hw-02-feedback/static/js/runtime-main.8c0e5fb4.js.map",
+    "static/js/2.2c1a3e46.chunk.js": "/kalvasflame/goit-react-hw-02-feedback/static/js/2.2c1a3e46.chunk.js",
+    "static/js/2.2c1a3e46.chunk.js.map": "/kalvasflame/goit-react-hw-02-feedback/static/js/2.2c1a3e46.chunk.js.map",
+    "static/js/3.dc9369f6.chunk.js": "/kalvasflame/goit-react-hw-02-feedback/static/js/3.dc9369f6.chunk.js",
+    "static/js/3.dc9369f6.chunk.js.map": "/kalvasflame/goit-react-hw-02-feedback/static/js/3.dc9369f6.chunk.js.map",
+    "index.html": "/kalvasflame/goit-react-hw-02-feedback/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/kalvasflame/goit-react-hw-02-feedback/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2c1a3e46.chunk.js.LICENSE.txt": "/kalvasflame/goit-react-hw-02-feedback/static/js/2.2c1a3e46.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e6c88ff.js",
+    "static/js/runtime-main.8c0e5fb4.js",
     "static/js/2.2c1a3e46.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.daefb195.chunk.js"
