@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KalVasFlame/goit-react-hw-02-feedback.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/KalVasFlame/goit-react-hw-02-feedback.git/static/js/main.daefb195.chunk.js",
+    "main.js.map": "/KalVasFlame/goit-react-hw-02-feedback.git/static/js/main.daefb195.chunk.js.map",
+    "runtime-main.js": "/KalVasFlame/goit-react-hw-02-feedback.git/static/js/runtime-main.8ffc9370.js",
+    "runtime-main.js.map": "/KalVasFlame/goit-react-hw-02-feedback.git/static/js/runtime-main.8ffc9370.js.map",
+    "static/js/2.2c1a3e46.chunk.js": "/KalVasFlame/goit-react-hw-02-feedback.git/static/js/2.2c1a3e46.chunk.js",
+    "static/js/2.2c1a3e46.chunk.js.map": "/KalVasFlame/goit-react-hw-02-feedback.git/static/js/2.2c1a3e46.chunk.js.map",
+    "static/js/3.dc9369f6.chunk.js": "/KalVasFlame/goit-react-hw-02-feedback.git/static/js/3.dc9369f6.chunk.js",
+    "static/js/3.dc9369f6.chunk.js.map": "/KalVasFlame/goit-react-hw-02-feedback.git/static/js/3.dc9369f6.chunk.js.map",
+    "index.html": "/KalVasFlame/goit-react-hw-02-feedback.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/KalVasFlame/goit-react-hw-02-feedback.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2c1a3e46.chunk.js.LICENSE.txt": "/KalVasFlame/goit-react-hw-02-feedback.git/static/js/2.2c1a3e46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ffc9370.js",
+    "static/js/2.2c1a3e46.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.daefb195.chunk.js"
+  ]
+}
